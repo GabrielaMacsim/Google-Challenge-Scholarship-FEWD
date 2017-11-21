@@ -1,2 +1,2 @@
 # Google-Challenge-Scholarship-FEWD
-A repository which contains Gabriela's projects from the Google Challenge Scholarship
+A repository which contains Gabriela's projects and notes from the Google Challenge Scholarship
